@@ -13,7 +13,7 @@ export const Footer = () => {
         
         <div className="flex items-center justify-center gap-6">
           <a
-            href="https://github.com"
+            href="https://github.com/satv24/personal-tracker"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors duration-200"
